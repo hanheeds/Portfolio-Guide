@@ -39,7 +39,7 @@ Welcome to my portfolio! Here, I document a summary of my projects. *This markdo
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
+| 🤡 <br> [Text to Emoji Generator](https://github.com/hanheeds/TextToEmoji) | June 2023 | Python (PyTorch), Jupyter Notebook | Created a powerful text-to-emoji generator using BERT, trained on a carefully curated dataset of Tweets and emotions. Achieved an F1 score of 0.7 for emotion classification. Employed various distance metrics to map emotions to emoji representations efficiently. |
 
 
 # Software Development
