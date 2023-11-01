@@ -15,9 +15,9 @@ Welcome to my portfolio! Here, I document a summary of my projects. *This markdo
 
 # Visualization
 
-| Project Link | Project Description | Dashboard Link |
-|---|---|---|
-| 🦄 [Maven Unicorn Challenge](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
+| Project Link | Completion Date | Tools | Project Description |    
+|---|---|---|---|
+| 🏈 [NFL Injury Analysis](https://github.com/hanheeds/NFL_Injury) | March 2022 | Python (Beautiful Soup), Tableau, Powerpoint | Determined common patterns in NFL injuries including, trend, most common injury by position, and effect of injuries over time in the NFL. |
 
 
 # Data Science
@@ -31,7 +31,7 @@ Welcome to my portfolio! Here, I document a summary of my projects. *This markdo
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
+| 🫀 [Heart Disease](https://github.com/hanheeds/heart_disease) | June 2023 | Python (ETL Tools), Shell, AWS, Docker | This code creates a postgres database and database table schema for a heart disease data set. We extract the data from the hearts.csv file, clean, impute, and transform it, and load it into the database tables. We preform exploratory data analysis to look at the spread, statistical measures, and outliers of numerical features. |
 
 
 # Deep Learning
@@ -39,21 +39,19 @@ Welcome to my portfolio! Here, I document a summary of my projects. *This markdo
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | 🤡 <br> [Text to Emoji Generator](https://github.com/hanheeds/TextToEmoji) | June 2023 | Python (PyTorch), Jupyter Notebook | Created a powerful text-to-emoji generator using BERT, trained on a carefully curated dataset of Tweets and emotions. Achieved an F1 score of 0.7 for emotion classification. Employed various distance metrics to map emotions to emoji representations efficiently. |
-
-| ✈️ <br> [TrekTech](https://github.com/hanheeds/TrekTech) | Oct 2023 | OpenAI, API, Python (Langchain), Django | A web application designed to empower travel enthusiasts with tailored adventures, efficient planning, and real-time guidance. Just put in a prompt and a customized, beautiful itinerary will be generated. |
+| ✈️ [TrekTech](https://github.com/hanheeds/TrekTech) | Oct 2023 | OpenAI, API, Python (Langchain), Django | A web application designed to empower travel enthusiasts with tailored adventures, efficient planning, and real-time guidance. Just put in a prompt and a customized, beautiful itinerary will be generated. |
 
 # Software Development
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
+| 👌 [Simple SQL Compiler](https://github.com/hanheeds/SimpleSQL) | March 2023 | C | This project is a SimpleSQL compiler that reads in and executes SQL statements. The compiler is implemented in C language. |
 
 
 # Other
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
 
 ***
 
