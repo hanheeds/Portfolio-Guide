@@ -22,9 +22,9 @@ Welcome to my portfolio! Here, I document a summary of my projects. *This markdo
 
 # Data Science
 
-| Project Link | Area | Project Description | Libraries |    
+| Project Link | Completion Date | Tools | Project Description |    
 |---|---|---|---|
-| 👩🏻‍💻 [CS50P - Ongoing](https://github.com/katiehuangx/CS50P/blob/main/README.md) | Programming | This repo contains the solution to the problem sets in [Harvardx CS50P Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python). | - | 
+| 👩🏻‍💻 [Shopify Data Challenge](https://github.com/hanheeds/shopify_data) | May 2022 | R(ggplot), SQL| Used sample Shopify data to answer multiple business questions, including what went wrong with Shopify's business calculation to recommend a different evaluation metric and determine what product was ordered most by customers in Germany | 
 
 
 # Data Engineering
@@ -40,6 +40,7 @@ Welcome to my portfolio! Here, I document a summary of my projects. *This markdo
 |---|---|---|---|
 | 🤡 <br> [Text to Emoji Generator](https://github.com/hanheeds/TextToEmoji) | June 2023 | Python (PyTorch), Jupyter Notebook | Created a powerful text-to-emoji generator using BERT, trained on a carefully curated dataset of Tweets and emotions. Achieved an F1 score of 0.7 for emotion classification. Employed various distance metrics to map emotions to emoji representations efficiently. |
 
+| ✈️ <br> [TrekTech](https://github.com/hanheeds/TrekTech) | Oct 2023 | OpenAI, API, Python (Langchain), Django | A web application designed to empower travel enthusiasts with tailored adventures, efficient planning, and real-time guidance. Just put in a prompt and a customized, beautiful itinerary will be generated. |
 
 # Software Development
 
