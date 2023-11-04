@@ -18,7 +18,7 @@ Welcome to my portfolio! Here, I document a summary of my projects. *This markdo
 | Project Link | Completion Date | Tools | Project Description |    
 |---|---|---|---|
 | 🏈 [NFL Injury Analysis](https://github.com/hanheeds/NFL_Injury) | March 2022 | Python (Beautiful Soup), Tableau, Powerpoint | Determined common patterns in NFL injuries including, trend, most common injury by position, and effect of injuries over time in the NFL. |
-| 💰 [Billionaire Analysis](https://github.com/hanheeds/billionaires) | November 2023 | Tableau | Exploratory data analysis on discovering the most common traits of billionaires. Can I become rich like them? What is setting me back? |
+| 💰 [The World of Billionaires](https://github.com/hanheeds/billionaires) | November 2023 | Tableau | Exploratory data analysis on discovering the most common traits of billionaires. Can I become rich like them? What is setting me back? |
 
 
 # Data Science
