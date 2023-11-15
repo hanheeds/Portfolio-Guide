@@ -51,9 +51,6 @@ Welcome to my portfolio! Here, I document a summary of my projects. *This markdo
 
 # Other
 
-| Project Link | Completion Date | Tools | Project Description | 
-|---|---|---|---|
-
 ***
 
 # Blog
