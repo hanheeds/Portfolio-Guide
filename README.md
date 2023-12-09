@@ -1,6 +1,6 @@
 # 🗺 Hanhee's Portfolio
 
-Welcome to my portfolio! Here, I document a summary of my projects. *This markdown is in progress*
+Welcome to my portfolio! Here, I document a summary of my projects.
 
 ## 📚 Table of Contents
 - [Visualization](#visualization)
